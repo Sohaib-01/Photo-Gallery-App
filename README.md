@@ -1,5 +1,5 @@
 # Photo-Gallery-App
-A photo gallery app using MongoDB, Express.js, React, and Node.js stack.
+Built a photo gallery app using MongoDB, Express.js, React, and Node.js stack.
 In this little project I built a photo gallery app using MERN stack. MongoDB was used for storing photos, so it was installed on the local machine. I was also able to learn:
 1. How to upload and serve images or any other file and restrict it to a specific file extension
 2. How to restrict file upload size
